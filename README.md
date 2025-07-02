@@ -5,7 +5,7 @@ Clean Connect Launcher
 
 ✅ Deletion of FiveM cache and crash logs (disabled by default, can be enabled via settings)
 
-✅ Display of server status (FiveM platform)
+✅ Display of server status (FiveM/Cfx platform)
 
 ✅ Displays system status and performance info (CPU, RAM, etc.)
 
