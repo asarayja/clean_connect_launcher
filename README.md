@@ -1,5 +1,6 @@
 Clean Connect Launcher
 🚀 A modern and user-friendly Windows launcher for FiveM roleplay servers. The launcher is designed to provide players with quick access, maintenance, troubleshooting, and automatic client updates.
+
 🧩 Features
 
 ✅ Deletion of FiveM cache and crash logs (disabled by default, can be enabled via settings)
