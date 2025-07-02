@@ -46,11 +46,10 @@ GTA5 settings file (gta5_settings.xml)
 
 🛠️ Planned Improvements
 
-📈 Additional visual statistics
-🔐 Improved error handling for network issues
+🛠️ Plans to enhance the troubleshooting section to provide better support for resolving common issues. Suggestions for improvements are welcome! Please share your ideas via an issue.
 
 💬 Contact and Contributions
-This is an open-source project. Have suggestions, improvements, or want to contribute?
+This is an open-source project. Have suggestions, improvements.
 
 Create an issue
 Or submit a pull request
