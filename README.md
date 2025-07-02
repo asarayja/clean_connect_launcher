@@ -45,11 +45,17 @@ Updates are fetched directly from this GitHub page, and the installer starts aut
 The following folders can be cleared via the launcher:
 
 FiveM\FiveM.app\data\server-cache-priv
+
 FiveM\FiveM.app\data\game-storage
+
 FiveM\FiveM.app\data\nui-storage
+
 FiveM\FiveM.app\data\server-cache
+
 FiveM\FiveM.app\crashes
+
 FiveM\FiveM.app\data\cache
+
 GTA5 settings file (gta5_settings.xml)
 
 🛠️ Planned Improvements
