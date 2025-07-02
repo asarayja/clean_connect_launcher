@@ -31,13 +31,7 @@ The launcher automatically starts the server after setup
 
 ⚙️ Technology
 
-.NET Framework / .NET 8
-
-Windows Forms (WinForms)
-
-C#
-
-GitHub API for version checking
+.NET Framework / .NET 8 - Windows Forms (WinForms) - C# - GitHub API for version checking
 
 🔁 Updates
 On
