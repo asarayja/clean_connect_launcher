@@ -46,7 +46,7 @@ FiveM\FiveM.app\data\server-cache-priv
 
 FiveM\FiveM.app\data\game-storage
 
-FiveM\FiveM.app\data\nui-storage
+FiveM\FiveM.app\data\nui-storage (designed to preserve user login data, so you don’t need to re-authenticate with your Cfx account in FiveM after clearing)
 
 FiveM\FiveM.app\data\server-cache
 
