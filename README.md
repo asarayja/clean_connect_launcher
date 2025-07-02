@@ -56,9 +56,25 @@ FiveM\FiveM.app\data\cache
 
 GTA5 settings file (gta5_settings.xml)
 
+# 🛠️ Troubleshooting
+
+Suggestions for troubleshooting:
+
+Ensure FiveM is properly installed.
+
+Use launcher settings to clear cache, crashes, and other FiveM files.
+
+If the problem persists, restart your PC and try again.
+
+Reinstall FiveM with user backup (if you were logged in with a Cfx account, no re-authentication is required as the launcher ensures your data is restored correctly after reinstallation).
+
+Install / Reinstall FiveM:
+
+Status: Ready to install
+
 # 🛠️ Planned Improvements
 
-🛠️ Plans to enhance the troubleshooting section to provide better support for resolving common issues. Suggestions for improvements are welcome! Please share your ideas via an issue.
+🛠️ Suggestions for improvements are welcome! Please share your ideas via an issue.
 
 #💬 Contact and Contributions
 This is an open-source project. Have suggestions, improvements.
