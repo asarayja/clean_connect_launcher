@@ -14,7 +14,7 @@ Clean Connect Launcher
 ✅ Automatic ping and latency display for the selected server
 
 📥 Download
-Find the latest version here:👉 GitHub Releases
+Find the latest version here:  👉 GitHub Releases
 Installer file: CleanConnectLauncher_setup.exe
 
 📦 Installation
