@@ -3,17 +3,24 @@ Clean Connect Launcher
 🧩 Features
 
 ✅ Deletion of FiveM cache and crash logs (disabled by default, can be enabled via settings)
+
 ✅ Display of server status (FiveM platform)
+
 ✅ Displays system status and performance info (CPU, RAM, etc.)
+
 ✅ Simple GUI built with Windows Forms
+
 ✅ Automatic ping and latency display for the selected server
 
 📥 Download
 Find the latest version here:👉 GitHub Releases
 Installer file: CleanConnectLauncher_setup.exe
+
 📦 Installation
 ✅ Multi-language support (🇳🇴 Norwegian / 🇬🇧 English)
+
 ✅ Automatic and manual update checks via GitHub Releases
+
 ✅ Optional initial setup (select server, port, and language)
 
 Download the .exe file from the releases page
