@@ -39,7 +39,6 @@
 | RTX 2060/RX 5700     | Høy ✅                      |
 | RTX 3070+            | Ultra ✅                    |
 
-🖼️ ![Graphics Settings Screenshot](Clean_connect_Graphics.png) <!-- Ad
 
 # 📥 Last ned
 Finn den nyeste versjonen her: 👉 GitHub Releases
@@ -95,3 +94,5 @@ Nedenfor er noen skjermbilder av Clean Connect Launcher i
 ![FiveM Status](/Clean_connect_launcher_fivemstatus.png)
 
 ![Trubleshooting](/Trubleshooting.png)
+
+![Graphics Settings Screenshot](Clean_connect_Graphics.png)
