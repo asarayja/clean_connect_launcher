@@ -167,6 +167,7 @@ Hvis du ønsker støtte for flere språk, kontakt meg via et issue og spesifiser
 📸 Skjermbilder
 
 Nedenfor er noen skjermbilder av Clean Connect Launcher i aksjon:
+
 ![Main Interface](/Clean_connect_launcher.png)
 
 ![Settings Menu](/Clean_connect_launcher_settings.png)
