@@ -31,6 +31,18 @@
 - Deaktiver dybdeskarphet (DoF) for bedre lesbarhet ✅
 - Bruk FXAA i stedet for TXAA for mindre "ghosting" ✅
 
+![Graphics Settings Screenshot](Clean_connect_Graphics.png)
+
+  For Streamers
+🎥 Bruk forhåndsinnstillingen «Medium» eller «Høy» for:
+
+Stabil ytelse under strømming ✅
+God bildekvalitet for seere ✅
+Balansert ressursbruk ✅
+Anbefalte innstillinger:
+Deaktiver dybdeskarphet (DoF) for bedre lesbarhet ✅
+Bruk FXAA i stedet for TXAA for mindre «ghosting» ✅
+
 ### Maskinvareanbefalinger
 | Grafikkortklasse     | Anbefalt forhåndsinnstilling |
 |----------------------|-----------------------------|
@@ -95,4 +107,3 @@ Nedenfor er noen skjermbilder av Clean Connect Launcher i
 
 ![Trubleshooting](/Trubleshooting.png)
 
-![Graphics Settings Screenshot](Clean_connect_Graphics.png)
