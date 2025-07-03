@@ -83,3 +83,13 @@ Hvis du ønsker støtte for flere språk, vennligst kontakt meg via en sak og sp
 
 # 📸 Skjermbilder
 Nedenfor er noen skjermbilder av Clean Connect Launcher i
+
+![Main Interface](/Clean_connect_launcher.png)
+
+![Settings Menu](/Clean_connect_launcher_settings.png)
+
+![editserver](/Clean_connect_editserver.png)
+
+![FiveM Status](/Clean_connect_launcher_fivemstatus.png)
+
+![Trubleshooting](/Trubleshooting.png)
