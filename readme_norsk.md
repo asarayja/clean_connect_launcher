@@ -8,6 +8,8 @@
 ✅ Visning av systemstatus og ytelsesinfo (CPU, RAM, etc.)
 ✅ Enkel GUI bygget med Windows Forms
 ✅ Automatisk visning av ping og latens for den valgte serveren
+✅ Fler-serverstøtte for brukere som spiller på mer enn én FiveM-server
+✅ F3-knapp for å bytte server når flere servere er lagt til
 
 
 👉 # Nedlasting
