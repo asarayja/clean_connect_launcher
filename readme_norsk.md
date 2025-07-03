@@ -171,10 +171,11 @@ Nedenfor er noen skjermbilder av Clean Connect Launcher i aksjon:
 
 ![Settings Menu](/Clean_connect_launcher_settings.png)
 
+![editserver](/Clean_connect_editserver.png)
+
 ![FiveM Status](/Clean_connect_launcher_fivemstatus.png)
 
 ![Trubleshooting](/Trubleshooting.png)
 
-![editserver](/Clean_connect_editserver.png)
 
 © 2025 – Utviklet med ❤️ for FiveM-fellesskapet av Nightbox RP.
