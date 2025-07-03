@@ -168,8 +168,13 @@ Hvis du ønsker støtte for flere språk, kontakt meg via et issue og spesifiser
 
 Nedenfor er noen skjermbilder av Clean Connect Launcher i aksjon:
 ![Main Interface](/Clean_connect_launcher.png)
+
 ![Settings Menu](/Clean_connect_launcher_settings.png)
+
 ![FiveM Status](/Clean_connect_launcher_fivemstatus.png)
+
 ![Trubleshooting](/Trubleshooting.png)
+
+![editserver](/Clean_connect_editserver.png)
 
 © 2025 – Utviklet med ❤️ for FiveM-fellesskapet av Nightbox RP.
