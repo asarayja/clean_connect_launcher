@@ -1,182 +1,126 @@
 Clean Connect Launcher
+🚀 A modern and user-friendly Windows launcher designed for all FiveM servers. The launcher provides players with quick access, maintenance, troubleshooting, and automatic client updates, compatible with any FiveM server regardless of the roleplay community or configuration.
+🧩 Features
+✅ Deletion of FiveM cache and crash logs (disabled by default, can be enabled via settings)
+✅ Display of server status (FiveM/Cfx platform)
+✅ Displays system status and performance info (CPU, RAM, etc.)
+✅ Simple GUI built with Windows Forms
+✅ Automatic ping and latency display for the selected server
+✅ Multi-server support for users playing on more than one FiveM server
+✅ F3 button to switch servers when multiple servers are added
+✅ F3 button to switch servers when multiple servers are added
+🎮 Grafikkinnstillinger
+✅ Programmet lar deg enkelt konfigurere grafikk- og lydinnstillinger for FiveM/GTA V direkte fra launcheren:
+Førstegangsoppsett
 
-🚀 En moderne og brukervennlig Windows-lanserer designet for alle FiveM-servere. Lanseren gir spillerne rask tilgang, vedlikehold, feilsøking og automatiske klientoppdateringer, og er kompatibel med alle FiveM-servere uavhengig av rollespillfellesskap eller konfigurasjon.
-
-🧩 Funksjoner
-
-
-
-
-
-✅ Sletting av FiveM-cache og krasjlogger (deaktivert som standard, kan aktiveres via innstillinger)
-
-
-
-✅ Visning av serverstatus (FiveM/Cfx-plattform)
-
-
-
-✅ Visning av systemstatus og ytelsesinfo (CPU, RAM, etc.)
-
-
-
-✅ Enkel GUI bygget med Windows Forms
+Under første oppstart vil du se en "Graphics"-knapp
+Klikk for å velge mellom forhåndsdefinerte presets:
+Lav ✅ - Optimal for svake maskiner
+Medium ✅ - Balanse mellom ytelse og kvalitet
+Høy ✅ - For maskiner med god ytelse
+Ultra ✅ - Max kvalitet (kun for kraftige maskiner)
 
 
 
-✅ Automatisk visning av ping og latens for den valgte serveren
+Etter oppsett
+
+Åpne innstillinger via hovedvinduet
+Klikk "Graphics"-knappen
+Velg ønsket preset og bekreft
+
+Viktig merknad
+⚠️ For at endringene skal aktiveres fullt ut:
+
+Start GTA V i historiemodus etter endring
+Åpne innstillinger i FiveM og trykk "OK" for å bekrefte
+
+Hva endres?
+Programmet oppdaterer følgende i gta5_settings.xml:
+
+Skjermoppløsning og vindusmodus ✅
+Skyggekvalitet ✅
+Teksturdetaljer ✅
+Vann- og gresseffekter ✅
+Anti-aliasing ✅
+Lydinnstillinger (inkl. mikrofon) ✅
+
+🖼️  
+For streamere
+🎥 Bruk "Medium" eller "Høy"-preset for:
+
+Stabil ytelse under streaming ✅
+God bildekvalitet for seerne ✅
+Balansert ressursbruk ✅
+Anbefalte innstillinger:
+Deaktiver dybdeskarphet (DoF) for bedre lesbarhet ✅
+Bruk FXAA istedenfor TXAA for mindre "ghosting" ✅
 
 
 
-✅ Fler-serverstøtte for brukere som spiller på mer enn én FiveM-server
+Hardware-anbefalinger
 
 
 
-✅ F3-knapp for å bytte server når flere servere er lagt til
-
-📥 Nedlasting
-
-Finn den nyeste versjonen her:
-👉 GitHub Releases
-
-Installasjonsfil: CleanConnectLauncher_setup.exe
-
-📦 Installasjon
+Grafikkortklasse
+Anbefalt preset
 
 
 
+Integrert grafikk
+Lav ✅
 
 
-✅ Flerspråkstøtte (🇳🇴 Norsk / 🇬🇧 Engelsk)
+GTX 1060/RX 580
+Medium ✅
 
 
-
-✅ Automatiske og manuelle oppdateringssjekker via GitHub Releases
-
-
-
-✅ Valgfri initial oppsett (velg server, port og språk)
-
-Last ned .exe-filen fra utgivelsessiden
-Kjør installasjonsfilen, som automatisk installerer .NET 8 hvis det ikke allerede er til stede på systemet ditt
-Ved første lansering blir du bedt om å velge server og språk
-Lanseren starter serveren automatisk etter oppsett
-
-⚙️ Teknologi
+RTX 2060/RX 5700
+Høy ✅
 
 
+RTX 3070+
+Ultra ✅
 
 
-
-.NET Framework / .NET 8 - Windows Forms (WinForms) - C# - GitHub API for versjonssjekk
-
-🔁 Oppdateringer
-
-Ved oppstart sjekker lanseren automatisk etter nye versjoner. Du kan også manuelt klikke "Sjekk etter oppdateringer" i innstillingene. Oppdateringer hentes direkte fra denne GitHub-siden, og installasjonsprogrammet starter automatisk.
-
-🗃️ Mappestruktur og Cache-opprydding
-
-Følgende mapper kan tømmes via lanseren:
-
-
-
-
-
+📥 Download
+Find the latest version here:  👉 GitHub ReleasesInstaller file: CleanConnectLauncher_setup.exe
+📦 Installation
+✅ Multi-language support (🇳🇴 Norwegian / 🇬🇧 English)
+✅ Automatic and manual update checks via GitHub Releases
+✅ Optional initial setup (select server, port, and language)
+Download the .exe file from the releases pageRun the installer file, which will automatically install .NET 8 if it is not already present on your systemOn first launch, you’ll be prompted to select server and languageThe launcher automatically starts the server after setup
+⚙️ Technology
+.NET Framework / .NET 8 - Windows Forms (WinForms) - C# - GitHub API for version checking
+🔁 Updates
+On startup, the launcher automatically checks for new versions. You can also manually click "Check for updates" in the settings.Updates are fetched directly from this GitHub page, and the installer starts automatically.
+🗃️ Folder Structure and Cache Cleanup
+The following folders can be cleared via the launcher:
 FiveM\FiveM.app\data\server-cache-priv
-
-
-
 FiveM\FiveM.app\data\game-storage
-
-
-
-FiveM\FiveM.app\data\nui-storage (designet for å bevare brukernes innloggingsdata, så du trenger ikke å autentisere på nytt med Cfx-kontoen din i FiveM etter tømming)
-
-
-
+FiveM\FiveM.app\data\nui-storage (designed to preserve user login data, so you don’t need to re-authenticate with your Cfx account in FiveM after clearing)
 FiveM\FiveM.app\data\server-cache
-
-
-
 FiveM\FiveM.app\crashes
-
-
-
 FiveM\FiveM.app\data\cache
-
-
-
-GTA5-innstillingsfil (gta5_settings.xml)
-
-🛠️ Feilsøking
-
-Forslag til feilsøking:
-
-
-
-
-
-Sørg for at FiveM er riktig installert.
-
-
-
-Bruk lanserens innstillinger for å tømme cache, krasjlogger og andre FiveM-filer.
-
-
-
-Hvis problemet vedvarer, start PC-en på nytt og prøv igjen.
-
-
-
-Installer FiveM på nytt med brukersikkerhetskopi (hvis du var innlogget med en Cfx-konto, kreves ingen ny autentisering siden lanseren sørger for at dataene dine gjenopprettes korrekt etter reinstallasjon).
-
-
-
-Installer / Installer FiveM på nytt:
+GTA5 settings file (gta5_settings.xml)
+🛠️ Troubleshooting
+Suggestions for troubleshooting:
+Ensure FiveM is properly installed.
+Use launcher settings to clear cache, crashes, and other FiveM files.
+If the problem persists, restart your PC and try again.
+Reinstall FiveM with user backup (if you were logged in with a Cfx account, no re-authentication is required as the launcher ensures your data is restored correctly after reinstallation).
+Install / Reinstall FiveM:
+Status: Ready to install
+🛠️ Planned Improvements
+🛠️ Suggestions for improvements are welcome! Please share your ideas via an issue.
+💬 Contact and Contributions
+This is an open-source project. Have suggestions, improvements.
+Create an issueOr submit a pull request
+If you would like support for additional languages, please contact me via an issue and specify which language you would like to see added.
+📸 Screenshots
+Below are some screenshots of the Clean Connect Launcher in action:
 
 
 
 
 
-Status: Klar til installasjon
-
-🛠️ Planlagte forbedringer
-
-
-
-
-
-🛠️ Forslag til forbedringer er velkomne! Del gjerne ideene dine via et issue.
-
-💬 Kontakt og bidrag
-
-Dette er et åpen kildekode-prosjekt. Har du forslag eller ønsker å bidra?
-
-
-
-
-
-Opprett et issue
-
-
-
-Eller send en pull request
-
-Hvis du ønsker støtte for flere språk, kontakt meg via et issue og spesifiser hvilket språk du ønsker å legge til.
-
-📸 Skjermbilder
-
-Nedenfor er noen skjermbilder av Clean Connect Launcher i aksjon:
-
-![Main Interface](/Clean_connect_launcher.png)
-
-![Settings Menu](/Clean_connect_launcher_settings.png)
-
-![editserver](/Clean_connect_editserver.png)
-
-![FiveM Status](/Clean_connect_launcher_fivemstatus.png)
-
-![Trubleshooting](/Trubleshooting.png)
-
-
-© 2025 – Utviklet med ❤️ for FiveM-fellesskapet av Nightbox RP.
+© 2025 – Developed with ❤️ for the FiveM community by Nightbox RP.
