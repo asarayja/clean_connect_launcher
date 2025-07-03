@@ -14,6 +14,10 @@
 
 ✅ Automatic ping and latency display for the selected server
 
+✅ Multi-server support for users playing on more than one FiveM server
+
+✅ F3 button to switch servers when multiple servers are added
+
 # 📥 Download
 Find the latest version here:  👉 GitHub Releases
 Installer file: CleanConnectLauncher_setup.exe
