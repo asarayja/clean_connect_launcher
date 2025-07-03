@@ -92,9 +92,13 @@ If you would like support for additional languages, please contact me via an iss
 Below are some screenshots of the Clean Connect Launcher in action:
 
 ![Main Interface](/Clean_connect_launcher.png)
+
 ![Settings Menu](/Clean_connect_launcher_settings.png)
+
 ![FiveM Status](/Clean_connect_launcher_fivemstatus.png)
+
 ![Trubleshooting](/Trubleshooting.png)
+
 ![editserver](/Clean_connect_editserver.png)
 
 © 2025 – Developed with ❤️ for the FiveM community by Nightbox RP.
