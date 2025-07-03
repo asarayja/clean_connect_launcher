@@ -39,6 +39,8 @@
 | RTX 2060/RX 5700     | Høy ✅                      |
 | RTX 3070+            | Ultra ✅                    |
 
+🖼️ ![Graphics Settings Screenshot](Clean_connect_Graphics.png) <!-- Ad
+
 # 📥 Last ned
 Finn den nyeste versjonen her: 👉 GitHub Releases
 Installeringsfil: CleanConnectLauncher_setup.exe
