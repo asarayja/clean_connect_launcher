@@ -18,6 +18,58 @@
 
 ✅ F3 button to switch servers when multiple servers are added
 
+✅ F3 button to switch servers when multiple servers are added
+
+# 🎮 Graphics Settings
+
+✅ The program allows you to easily configure graphics and sound settings for FiveM/GTA V directly from the launcher:
+
+### Initial Setup
+1. On first startup, you will see a "Graphics" button
+2. Click to choose between predefined presets:
+   - **Low** ✅ - Optimal for weak machines
+   - **Medium** ✅ - Balance between performance and quality
+   - **High** ✅ - For machines with good performance
+   - **Ultra** ✅ - Max quality (only for powerful machines)
+
+### After Setup
+1. Open settings via the main window
+2. Click the "Graphics" button
+3. Select the desired preset and confirm
+
+### Important Note
+⚠️ For the changes to be fully activated:
+- Start GTA V in story mode after making changes
+- Open settings in FiveM and press "OK" to confirm
+
+### What is Changed?
+The program updates the following in `gta5_settings.xml`:
+- Screen resolution and window mode ✅
+- Shadow quality ✅
+- Texture details ✅
+- Water and grass effects ✅
+- Anti-aliasing ✅
+- Sound settings (including microphone) ✅
+
+🖼️ ![Graphics Settings Screenshot](https://example.com/path/to/screenshot.png) <!-- Add real image if possible -->
+
+### For Streamers
+🎥 Use "Medium" or "High" preset for:
+- Stable performance during streaming ✅
+- Good image quality for viewers ✅
+- Balanced resource usage ✅
+- Recommended settings:
+  - Disable depth of field (DoF) for better readability ✅
+  - Use FXAA instead of TXAA for less "ghosting" ✅
+
+### Hardware Recommendations
+| Graphics Card Class | Recommended Preset |
+|---------------------|---------------------|
+| Integrated Graphics | Low ✅              |
+| GTX 1060/RX 580     | Medium ✅           |
+| RTX 2060/RX 5700    | High ✅            |
+| RTX 3070+           | Ultra ✅           |
+
 # 📥 Download
 Find the latest version here:  👉 GitHub Releases
 Installer file: CleanConnectLauncher_setup.exe
@@ -39,8 +91,7 @@ The launcher automatically starts the server after setup
 .NET Framework / .NET 8 - Windows Forms (WinForms) - C# - GitHub API for version checking
 
 # 🔁 Updates
-On
- startup, the launcher automatically checks for new versions. You can also manually click "Check for updates" in the settings.
+On startup, the launcher automatically checks for new versions. You can also manually click "Check for updates" in the settings.
 Updates are fetched directly from this GitHub page, and the installer starts automatically.
 
 # 🗃️ Folder Structure and Cache Cleanup
@@ -80,7 +131,7 @@ Status: Ready to install
 
 🛠️ Suggestions for improvements are welcome! Please share your ideas via an issue.
 
-#💬 Contact and Contributions
+# 💬 Contact and Contributions
 This is an open-source project. Have suggestions, improvements.
 
 Create an issue
