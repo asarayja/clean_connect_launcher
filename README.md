@@ -51,7 +51,7 @@ The program updates the following in `gta5_settings.xml`:
 - Anti-aliasing ✅
 - Sound settings (including microphone) ✅
 
-🖼️ ![Graphics Settings Screenshot](https://example.com/path/to/screenshot.png) <!-- Add real image if possible -->
+🖼️ ![Graphics Settings Screenshot](Clean_connect_Graphics.png) <!-- Add real image if possible -->
 
 ### For Streamers
 🎥 Use "Medium" or "High" preset for:
