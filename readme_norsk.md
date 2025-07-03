@@ -10,64 +10,64 @@ Clean Connect Launcher
 ✅ F3 button to switch servers when multiple servers are added
 ✅ F3 button to switch servers when multiple servers are added
 🎮 Grafikkinnstillinger
-✅ Programmet lar deg enkelt konfigurere grafikk- og lydinnstillinger for FiveM/GTA V direkte fra launcheren:
-Førstegangsoppsett
+✅ The program allows you to easily configure graphics and sound settings for FiveM/GTA V directly from the launcher:
+Initial Setup
 
-Under første oppstart vil du se en "Graphics"-knapp
-Klikk for å velge mellom forhåndsdefinerte presets:
-Lav ✅ - Optimal for svake maskiner
-Medium ✅ - Balanse mellom ytelse og kvalitet
-Høy ✅ - For maskiner med god ytelse
-Ultra ✅ - Max kvalitet (kun for kraftige maskiner)
+On first startup, you will see a "Graphics" button
+Click to choose between predefined presets:
+Low ✅ - Optimal for weak machines
+Medium ✅ - Balance between performance and quality
+High ✅ - For machines with good performance
+Ultra ✅ - Max quality (only for powerful machines)
 
 
 
-Etter oppsett
+After Setup
 
-Åpne innstillinger via hovedvinduet
-Klikk "Graphics"-knappen
-Velg ønsket preset og bekreft
+Open settings via the main window
+Click the "Graphics" button
+Select the desired preset and confirm
 
-Viktig merknad
-⚠️ For at endringene skal aktiveres fullt ut:
+Important Note
+⚠️ For the changes to be fully activated:
 
-Start GTA V i historiemodus etter endring
-Åpne innstillinger i FiveM og trykk "OK" for å bekrefte
+Start GTA V in story mode after making changes
+Open settings in FiveM and press "OK" to confirm
 
-Hva endres?
-Programmet oppdaterer følgende i gta5_settings.xml:
+What is Changed?
+The program updates the following in gta5_settings.xml:
 
-Skjermoppløsning og vindusmodus ✅
-Skyggekvalitet ✅
-Teksturdetaljer ✅
-Vann- og gresseffekter ✅
+Screen resolution and window mode ✅
+Shadow quality ✅
+Texture details ✅
+Water and grass effects ✅
 Anti-aliasing ✅
-Lydinnstillinger (inkl. mikrofon) ✅
+Sound settings (including microphone) ✅
 
 🖼️  
-For streamere
-🎥 Bruk "Medium" eller "Høy"-preset for:
+For Streamers
+🎥 Use "Medium" or "High" preset for:
 
-Stabil ytelse under streaming ✅
-God bildekvalitet for seerne ✅
-Balansert ressursbruk ✅
-Anbefalte innstillinger:
-Deaktiver dybdeskarphet (DoF) for bedre lesbarhet ✅
-Bruk FXAA istedenfor TXAA for mindre "ghosting" ✅
-
-
-
-Hardware-anbefalinger
+Stable performance during streaming ✅
+Good image quality for viewers ✅
+Balanced resource usage ✅
+Recommended settings:
+Disable depth of field (DoF) for better readability ✅
+Use FXAA instead of TXAA for less "ghosting" ✅
 
 
 
-Grafikkortklasse
-Anbefalt preset
+Hardware Recommendations
 
 
 
-Integrert grafikk
-Lav ✅
+Graphics Card Class
+Recommended Preset
+
+
+
+Integrated Graphics
+Low ✅
 
 
 GTX 1060/RX 580
@@ -75,7 +75,7 @@ Medium ✅
 
 
 RTX 2060/RX 5700
-Høy ✅
+High ✅
 
 
 RTX 3070+
