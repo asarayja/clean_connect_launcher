@@ -18,8 +18,7 @@
 
 ✅ F3 button to switch servers when multiple servers are added
 
-✅ F3 button to switch servers when multiple servers are added
-
+✅ Install/reinstll for Microsoft VCRedist
 # 🎮 Graphics Settings
 
 ✅ The program allows you to easily configure graphics and sound settings for FiveM/GTA V directly from the launcher:
