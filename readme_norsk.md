@@ -18,7 +18,7 @@
 
 ✅ F3-knapp for å bytte servere når flere servere er lagt til
 
-✅ F3-knapp for å bytte servere når flere servere er lagt til
+✅ Installer/reinstaller Microsoft Visual C++ Redistributable
 
 # 🎮 Grafikkinnstillinger
 
