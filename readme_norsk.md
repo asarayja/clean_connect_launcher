@@ -8,8 +8,6 @@
 
 ✅ Visning av serverstatus (FiveM/Cfx-plattform)
 
-✅ Viser systemstatus og ytelsesinfo (CPU, RAM, osv.)
-
 ✅ Enkel GUI laget med Windows Forms
 
 ✅ Automatisk ping- og latensvisning for den valgte serveren
