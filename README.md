@@ -8,8 +8,6 @@
 
 ✅ Display of server status (FiveM/Cfx platform)
 
-✅ Displays system status and performance info (CPU, RAM, etc.)
-
 ✅ Simple GUI built with Windows Forms
 
 ✅ Automatic ping and latency display for the selected server
