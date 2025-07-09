@@ -48,7 +48,7 @@ Installer file: CleanConnectLauncher_setup.exe
 
 ✅ Automatic and manual update checks via GitHub Releases
 
-✅ Optional initial setup (select server, port, and language)
+✅ Optional initial setup (select server, port, language and fivem settings)
 
 Download the .exe file from the releases page
 Run the installer file, which will automatically install .NET 8 if it is not already present on your system
