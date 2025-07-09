@@ -17,7 +17,7 @@
 ✅ F3 button to switch servers when multiple servers are added
 
 ✅ Install/reinstall Microsoft Visual C++ Redistributable
-# 🎮 Gta 5/ fivem settings Graphics, voice chat Settings etc program before connecting the game
+## 🎮 Gta 5/ fivem settings Graphics, voice chat Settings etc program before connecting the game
 
 ✅ The program allows you to easily configure graphics and sound settings for FiveM/GTA V directly from the launcher:
 
