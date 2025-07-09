@@ -18,10 +18,10 @@
 
 ✅ Installer/reinstaller Microsoft Visual C++ Redistributable
 
-# 🎮 Grafikkinnstillinger
+# 🎮 GTA 5/FiveM-innstillinger: Grafikk, talechat-innstillinger osv. før tilkobling til spillet
 
-✅ Programmet lar deg enkelt konfigurere grafikk- og lydinnstillinger for FiveM/GTA V direkte fra lansereren: ### For Streamere
-🎥 Bruk "Medium" eller "High" forhåndsinnstilling for:
+✅ Programmet lar deg enkelt konfigurere grafikk- og lydinnstillinger for FiveM/GTA V direkte fra Launcher sprogrammet:
+
 - Stabil ytelse under streaming ✅
 - God bildekvalitet for seere ✅
 - Balansert ressursbruk ✅
@@ -31,23 +31,6 @@
 
 ![Graphics Settings Screenshot](Clean_connect_Graphics.png)
 
-  For Streamers
-🎥 Bruk forhåndsinnstillingen «Medium» eller «Høy» for:
-
-Stabil ytelse under strømming ✅
-God bildekvalitet for seere ✅
-Balansert ressursbruk ✅
-Anbefalte innstillinger:
-Deaktiver dybdeskarphet (DoF) for bedre lesbarhet ✅
-Bruk FXAA i stedet for TXAA for mindre «ghosting» ✅
-
-### Maskinvareanbefalinger
-| Grafikkortklasse     | Anbefalt forhåndsinnstilling |
-|----------------------|-----------------------------|
-| Integrert Grafikk    | Lav ✅                      |
-| GTX 1060/RX 580      | Medium ✅                   |
-| RTX 2060/RX 5700     | Høy ✅                      |
-| RTX 3070+            | Ultra ✅                    |
 
 
 # 📥 Last ned
