@@ -25,10 +25,11 @@
 1. On first startup, you will see a "Fivem Settings" button
 2: it can change graphics, Voice Chat for fivem
 
+# Ps: All Fivem settings are automatically updated as soon as a change is made.
+
 🖼️ ![Graphics Settings Screenshot](Clean_connect_Graphics.png) <!-- Add real image if possible -->
 
 ### For Streamers
-🎥 Use "Medium" or "High" preset for:
 - Stable performance during streaming ✅
 - Good image quality for viewers ✅
 - Balanced resource usage ✅
