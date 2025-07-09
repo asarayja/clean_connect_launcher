@@ -21,13 +21,8 @@
 
 ✅ The program allows you to easily configure graphics and sound settings for FiveM/GTA V directly from the launcher:
 
-### Initial Setup
 
-1. On first startup, you will see a "Fivem Settings" button
-   
-2: it can change graphics, Voice Chat for fivem
-
-# Ps: All Fivem settings are automatically updated as soon as a change is made.
+## Ps: All Fivem settings are automatically updated as soon as a change is made.
 
 🖼️ ![Graphics Settings Screenshot](Clean_connect_Graphics.png) <!-- Add real image if possible -->
 
