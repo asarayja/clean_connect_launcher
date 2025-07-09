@@ -23,6 +23,7 @@
 
 ### Initial Setup
 1. On first startup, you will see a "Fivem Settings" button
+   
 2: it can change graphics, Voice Chat for fivem
 
 # Ps: All Fivem settings are automatically updated as soon as a change is made.
