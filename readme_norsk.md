@@ -39,7 +39,7 @@ Finn den nyeste versjonen her: 👉 GitHub Releases
 Installasjonsfil: CleanConnectLauncher_setup.exe
 
 # 📦 Installasjon
-✅ Støtte for flere språk (🇳🇴 Norsk / 🇬🇧 Engelsk)
+✅ Støtte for flere språk (🇳🇴 Norsk / 🇬🇧 Engelsk) Svensk, Dansk, Finsk, Tysk, Spansk, Fransk og Polsk
 
 ✅ Automatiske og manuelle oppdateringssjekker via GitHub Releases
 
