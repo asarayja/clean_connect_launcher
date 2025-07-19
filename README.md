@@ -17,14 +17,7 @@
 ✅ F3 button to switch servers when multiple servers are added
 
 ✅ Install/reinstall Microsoft Visual C++ Redistributable
-## 🎮 Gta 5/ fivem settings Graphics, voice chat Settings etc program before connecting the game
-
-✅ The program allows you to easily configure graphics and sound settings for FiveM/GTA V directly from the launcher:
-
-
-## Ps: All Fivem settings are automatically updated as soon as a change is made.
-
-🖼️ ![Graphics Settings Screenshot](Clean_connect_Graphics.png) <!-- Add real image if possible -->
+<!-- Add real image if possible -->
 
 ### For Streamers
 - Stable performance during streaming ✅
