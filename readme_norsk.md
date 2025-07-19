@@ -20,12 +20,6 @@
 
 ## 🎮 GTA 5/FiveM-innstillinger: Grafikk, talechat-innstillinger osv. før tilkobling til spillet
 
-✅ Programmet lar deg enkelt konfigurere grafikk- og lydinnstillinger for FiveM/GTA V direkte fra lanseringsprogrammet:
-
-## PS: Alle FiveM-innstillinger oppdateres automatisk så snart en endring er gjort.
-
-🖼️ ![Skjermbilde av grafikkinnstillinger](Clean_connect_Graphics.png) <!-- Legg til ekte bilde hvis mulig -->
-
 ### For Strømmere
 - Stabil ytelse under strømming ✅
 - God bildekvalitet for seere ✅
